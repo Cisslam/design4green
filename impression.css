@@ -1,0 +1,21 @@
+#print-button {
+    display: block;
+    margin: 0 auto;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  body {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  #print-button {
+    display: none;
+  }
+  
